@@ -42,7 +42,7 @@ IBM Log Analysis with LogDNA
     regions.md
     [LogDNA Product Page](https://logdna.com/)
     [LogDNA Documentation](https://docs.logdna.com/docs)
-    [LogDNA Blog](https://blog.logdna.com/)
+    [LogDNA Blog](https://logdna.com/blog/)
     {: .navgroup-end}
 
     {: .navgroup id="help"}
